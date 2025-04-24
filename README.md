@@ -1,7 +1,5 @@
 # 🃏 PokerLedger
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 Track buy-ins, cash-outs, and net balances — built for poker nights with friends or semi-serious home games. PokerLedger is a clean, intuitive tool for keeping tabs on who's in for what.
 
 ---
@@ -47,3 +45,6 @@ Track buy-ins, cash-outs, and net balances — built for poker nights with frien
    PORT=5005
    MONGO_URI=your_mongodb_connection_string
 4. Run `npm run dev` in first the `backend/` then `frontend/` folders
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
