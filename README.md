@@ -46,4 +46,4 @@ Track buy-ins, cash-outs, and net balances — built for poker nights with frien
    ```env
    PORT=5005
    MDB_URI=your_mongodb_connection_string
-4. Run `npm run dev` in first the `backend/` then `frontend/` folders
+4. Run `npm run dev` in first the `backend/` then `frontend/` folder
