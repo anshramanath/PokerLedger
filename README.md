@@ -45,5 +45,5 @@ Track buy-ins, cash-outs, and net balances — built for poker nights with frien
 3. Create a `.env` file in the `backend/` folder with:
    ```env
    PORT=5005
-   MONGO_URI=your_mongodb_connection_string
+   MDB_URI=your_mongodb_connection_string
 4. Run `npm run dev` in first the `backend/` then `frontend/` folders
